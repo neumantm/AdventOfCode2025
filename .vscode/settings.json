@@ -1,0 +1,6 @@
+{
+  "python.analysis.autoImportCompletions": true,
+  "flake8.args": [
+    "--ignore=E501"
+  ]
+}
